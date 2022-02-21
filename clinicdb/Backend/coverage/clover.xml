@@ -4,7 +4,7 @@
     <metrics statements="89" coveredstatements="34" conditionals="0" coveredconditionals="0" methods="27" coveredmethods="4" elements="116" coveredelements="38" complexity="0" loc="89" ncloc="89" packages="2" files="2" classes="2"/>
     <package name="models">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="doctors.js" path="C:\Users\JENITA NISHAL GAMA\Jenita\Capstone_Project\Reactjs_Project\Backend\src\models\doctors.js">
+      <file name="doctors.js" path="C:\Users\SUSMITHA JOE\Susmitha\Capstone_Project\Reactjs_Project\Backend\src\models\doctors.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="3" count="1" type="stmt"/>
         <line num="26" count="1" type="stmt"/>
@@ -12,7 +12,7 @@
     </package>
     <package name="routes">
       <metrics statements="87" coveredstatements="32" conditionals="0" coveredconditionals="0" methods="27" coveredmethods="4"/>
-      <file name="app.js" path="C:\Users\JENITA NISHAL GAMA\Jenita\Capstone_Project\Reactjs_Project\Backend\src\routes\app.js">
+      <file name="app.js" path="C:\Users\SUSMITHA JOE\Susmitha\Capstone_Project\Reactjs_Project\Backend\src\routes\app.js">
         <metrics statements="87" coveredstatements="32" conditionals="0" coveredconditionals="0" methods="27" coveredmethods="4"/>
         <line num="5" count="1" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
